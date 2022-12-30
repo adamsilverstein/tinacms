@@ -17,7 +17,7 @@
     "gatsby-tinacms-remark": "0.3.4",
     "tinacms": "0.4.0",
     "@types/react": "^16.8.23",
-    "gatsby": "^2.13.34",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.6",
     "gatsby-plugin-feed": "^2.3.5",
     "gatsby-plugin-google-analytics": "^2.1.4",
