@@ -28,7 +28,7 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "danger": "^9.2.0",
+    "danger": "^11.2.1",
     "react-frame-component": "^4.1.1"
   }
 }
